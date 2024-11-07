@@ -1,1 +1,1 @@
-# PROPOSE-DAY-CODE
+# propose-day
